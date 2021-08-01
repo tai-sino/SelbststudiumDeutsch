@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/yanone_kaffeesatz</item>
+        <item>@font/yanone_kaffeesatz_bold</item>
+        <item>@font/yanone_kaffeesatz_light</item>
+        <item>@font/ribeye_marrow</item>
+        <item>@font/yanone_kaffeesatz_extralight</item>
+
+    </array>
+</resources>

@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Selbststudium Deutsch</string>
+    <string name="logo_name">Selbststudium Deutsch</string>
+    <string name="slogan_name">From <b>Selbstudium Deutsch Discord Server</b> with Love</string>
+
 </resources>
